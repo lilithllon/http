@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Comptador SessionStorage</title>
-<head/>
+</head>
 <body>
     <script>
     let contador = sessionStorage.getItem('contador');
@@ -18,4 +18,4 @@
     document.write("Visites o execucions: " + contador);    
     </script>
 </body>
-<html/>
+</html>
