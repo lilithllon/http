@@ -18,4 +18,4 @@
     document.write("Visites o execucions: " + contador);    
     </script>
 </body>
-</html>
+<html/>
